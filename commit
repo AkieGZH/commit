@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+  printf("cnss is a gourp full of fay");
+  return 0;
+}
